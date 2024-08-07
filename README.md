@@ -1,6 +1,6 @@
-# Cadastro de Tarefas
+# Gerenciador de Tarefas com Tkinter
 
-Este é um programa de linha de comando em Python para gerenciar uma lista de tarefas. Ele permite adicionar, visualizar, marcar como concluídas e remover tarefas. As tarefas são salvas em um banco de dados SQLite3 para persistência de dados.
+Este é um programa de gerenciamento de tarefas com interface gráfica desenvolvida em Python utilizando Tkinter. Ele permite adicionar, visualizar, marcar como concluídas e remover tarefas. As tarefas são salvas em um banco de dados SQLite3 para persistência de dados.
 
 ## Funcionalidades
 
@@ -16,4 +16,5 @@ Este é um programa de linha de comando em Python para gerenciar uma lista de ta
 ## Requisitos
 
 - Python 3.x
+- Tkinter (geralmente incluído na instalação padrão do Python)
 - SQLite3
